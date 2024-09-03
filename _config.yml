@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "HaoCheng Fu（符皓程）"
-description              : "符皓程现就读于三峡大学"
+description              : "凡益之道 , 与时偕行"
 repository               : "HaoCheng Fu（符皓程）"
 google_scholar_stats_use_cdn : true
 
@@ -22,15 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "HaoCheng Fu（符皓程）"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "好好学习天天向上"
+  avatar           : "images/avatar.jpg"
+  bio              : "三峡大学"
   location         : "hubei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "fuhaocheng@vip.qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://fuhaocheng.cn"
   bitbucket        :
   codepen          :
   dribbble         :
