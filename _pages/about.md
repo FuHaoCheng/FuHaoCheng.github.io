@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-符皓程现为三峡大学计算机与信息技术学院，硕士研究生。其导师为<a href='https://wbwang17.github.io/'>王文斌教授</a>
+Haocheng Fu is currently a Master's student at the School of Computer Science and Information Technology, China Three Gorges University, advised by <a href='https://wbwang17.github.io/'>Prof. Wenbin Wang</a>
 
 # 🔥 新闻
 <span class='anchor' id='news'></span>

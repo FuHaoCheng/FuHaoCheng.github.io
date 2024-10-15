@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "HaoCheng Fu（符皓程）"
-description              : "凡益之道 , 与时偕行"
+description              : "Per aspera ad astra"
 repository               : "HaoCheng Fu（符皓程）"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "符皓程"
+  name             : "HaoCheng Fu"
   avatar           : "images/avatar.jpg"
-  bio              : "三峡大学"
+  bio              : "China Three Gorges University"
   location         : "hubei, China"
   employer         :
   pubmed           : 

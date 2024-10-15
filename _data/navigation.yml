@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "关于我"
+  - title: "about-me"
     url: "/#about-me"
 
-  - title: "新闻"
+  - title: "news"
     url: "/#news"
 
-  - title: "出版物"
+  - title: "publications"
     url: "/#publications"
 
-  - title: "荣誉"
+  - title: "honors-and-awards"
     url: "/#honors-and-awards"
 
-  - title: "教育"
+  - title: "educations"
     url: "/#educations"
 #
 #  - title: "Invited Talks"
